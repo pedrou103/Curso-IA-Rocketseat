@@ -1,0 +1,15 @@
+📂 Estrutura das colunas
+
+ 1. price → preço da casa (em unidades monetárias grandes, parece rúpia indiana ou algo similar).
+ 2. area → área construída (em pés², provavelmente).
+ 3. bedrooms → número de quartos.
+ 4. bathrooms → número de banheiros.
+ 5. stories → número de andares.
+ 6. mainroad → se o imóvel fica em rua principal (yes/no).
+ 7. guestroom → se tem quarto de hóspedes.
+ 8. basement → se possui porão.
+ 9. hotwaterheating → se possui aquecimento de água.
+10. airconditioning → se tem ar-condicionado.
+11. parking → quantidade de vagas de estacionamento.
+12. prefarea → se está em uma área preferencial (yes/no).
+13. furnishingstatus → estado de mobília (furnished, semi-furnished, unfurnished).
